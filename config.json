@@ -1,0 +1,7 @@
+{
+	"stage": "dev",
+	"frontend": {
+		"repository_name": "appio-frontend",
+		"owner": "LuisLombaMartinez"
+	}
+}
